@@ -1,8 +1,8 @@
 RUBY_VERSION="2.4.0"
 RAILS_VERSION="5.0.2"
 MYSQL_PASSWORD="123456"
-GIT_USER_NAME="andre-tlima"
-GIT_USER_EMAIL="andre-tlima@hotmail.com"
+GIT_USER_NAME="kleberkgns"
+GIT_USER_EMAIL="kleber.silva.kgns@gmail.com"
 NODE_VERSION="6"
 
 
